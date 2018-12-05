@@ -1,0 +1,3 @@
+spring.social.facebook.app-id=1163097873856414
+spring.social.facebook.app-secret=5cfc12a1692127ca940e24d7bbf19260
+server.port=8123
